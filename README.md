@@ -1,5 +1,5 @@
 # HSGEL
-Code of the paper: HSGEL: Hot-Start Graph Ensemble Learning: Tackling Large Networks with Shared Initialization and Multi-Branch Diversification
+Code of the paper: Hot-Start Graph Ensemble Learning: Tackling Large Networks with Shared Initialization and Multi-Branch Diversification
 The camera-ready paper for ICDM 2026 can be found at: 
 
 ## Requirements
