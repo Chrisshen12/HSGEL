@@ -27,6 +27,7 @@ Overall, HSGEL provides an efficient approach to generating **accurate and diver
 
 The overall HSGEL framework consists of three training stages:
 ![HSGEL Framework](HSGEL_framework_v1.pdf)
+
 Initial Lifting: this stage trains a shared GNN using a fixed sampling configuration, as the hot-start for the next stage. 
 
 Multi-branch Diversification: This stage enters multiple branch GNN training, each starting from the hot-start, using different sampler configurations for each branch, resulting in multiple branches with diverse experts. 
