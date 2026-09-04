@@ -77,5 +77,11 @@ python train.py
 If you find this work useful in your research, please cite:
 
 ```bibtex
+@inproceedings{shen2026hsgel,
+  author    = {Jiajun Shen and Yufei Jin and Xingquan Zhu},
+  title     = {Hot-Start Graph Ensemble Learning: Tackling Large Networks with Shared Initialization and Multi-Branch Diversification},
+  booktitle = {2026 IEEE International Conference on Data Mining (ICDM)},
+  year      = {2026}
+}
 ```
 If you encounter any issues, please feel free to reach out to me at jshen2024@fau.edu.
