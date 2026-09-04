@@ -2,10 +2,7 @@
 
 This repository contains the official implementation of **HSGEL**, an efficient graph ensemble learning framework for large-scale graph learning.
 
-> **Paper:** [Hot-Start Graph Ensemble Learning: Tackling Large Networks with Shared Initialization and Multi-Branch Diversification](#)  
-> **Authors:** Jiajun Shen, Yufei Jin, Xingquan Zhu
----
-The camera-ready paper for ICDM 2026 can be found at: 
+J. Shen, Y. Jin and X. Zhu, "Hot-Start Graph Ensemble Learning: Tackling Large Networks with Shared Initialization and Multi-Branch Diversification," *2026 IEEE International Conference on Data Mining (ICDM)*, 2026.
 ## Overview
 
 **HSGEL (Hot-Start Graph Ensemble Learning)** is an efficient framework for large-scale graph ensemble learning that generates diverse GNN experts from a **shared model**, avoiding the repeated cold-start training required by conventional ensemble methods.
